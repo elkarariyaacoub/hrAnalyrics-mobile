@@ -1,0 +1,198 @@
+{
+    "HomePage": {
+        "engaged-title-01": "La solution qui rend\nvos collaborateurs\n",
+        "engaged-title-02": "totalement\nengagés !",
+        "bottomline-title-01": "Adoptez donc la\npuissance de\nl'analyse salariale\n",
+        "bottomline-title-02": "pilotée par IA",
+        "bottomline-title-03": "",
+        "hr-analysis-title": "Améliorez les\nperformances\ngrace à l’analytique\n& la HR-Tech",
+        "engaged-description": "Notre plateforme vous permet de mesurer\net d'agir efficacement sur l'engagement de\nvos employés, pour un impact maximal sur\nvos managers, vos équipes et la culture de\nvotre entreprise.",
+        "bottomline-description": "Renforcez la certitude de vos décisions\ngrâce à la précision de nos analyses\npertinemment validées avec BOOTMLINE, le\nlogiciel le plus en avance et le plus complet\ndu marché.",
+        "hr-analysis-description": "Nous concevons de nouvelles solutions\ntechnologiques et accompagnons vos\nstratégies pour optimiser votre gestion des\nressources humaines et vos performances\npour une croissance durable.",
+        "engaged-button": "Démonstration",
+        "bottomline-button": "Démonstration",
+        "hr-analysis-button": "Contact",
+        "learn-more": "Savoir plus"
+    },
+    "Sidebar": {
+        "home-link": "Main Menu",
+        "hr-analytis-link": "HR Analytics",
+        "engaged-link": "Engaged",
+        "bottomline-link": "Bottomline",
+        "contact-link": "Contact - Démo",
+        "legal-notice-link": "Mentions légales",
+        "confidentiality-link": "Confidentialité",
+        "conditions-link": "Conditions",
+        "lang": "Français",
+        "lang-to": "en"
+    },
+    "popup": {
+        "message": "Pour profiter de la version complète du siteweb, prière d'utiliser un ordinateur."
+    },
+    "HRAnalyticsPage": {
+        "list": [
+            {
+                "title": "Conception et\nIntégration de\nTechnologies RH",
+                "description": "Que vous optiez pour la conception\nd’un nouveau progiciel ou\nqu'intégriez des systèmes existants,\nnous garantissons une mise en\nœuvre fluide, un parfait alignement\naux process pour un retour sur\ninvestissement maximal."
+            },
+            {
+                "title": "Stratégies\nD’engagement & de\nRétention",
+                "description": "En analysant les retours et les\nsentiments des collaborateurs,\nnous identifions les domaines à\naméliorer et développons des\nstratégies et des actions pour\naugmenter la satisfaction et\nréduire les inconvénients."
+            },
+            {
+                "title": "Conception de\nSystémes de\nRémunération",
+                "description": "Du benchmark à l'évaluation de\nl'équité salariale et à l'audit de\nconformité légale de la paie, nous\nvous aidons à élaborer des\nstratégies salariales efficaces pour\nattirer et retenir les meilleurs\ntalents."
+            },
+            {
+                "title": "Conseil en stratégie\nde gestion du capital\nhumain",
+                "description": "Que vous ayez besoin de conseils\nsur la gestion des talents,\nl’organisation, ou la conduite du\nchangement ou d'autres questions\net défis RH, nous offrons des\nsolutions personnalisées\nparfaitement adaptées."
+            }
+        ],
+        "contact-button": "Contact"
+    },
+    "EngagedPage": {
+        "list": [
+            {
+                "title": "Basé sur des\nrecherches de pointe",
+                "description": "Fondé sur les travaux de recherches\nles plus actuelles, ENGAGED garantit\nla fiabilité et la pertinence.\nChaque module du système à fait\nl'objet d'une validation scientifique\nrigoureuse."
+            },
+            {
+                "title": "Algorithm puissant et\navancé",
+                "description": "Notre puissant algorithme gère tous\nles calculs complexes en arrière-plan.\nTandis que, nos menus conviviaux\ngarantissent une navigation\noptimale, rendant l’expérience fluide\net très intuitive."
+            },
+            {
+                "title": "Support managérial\npersonnalisé",
+                "description": "Véritable outil de management avec\nsa méthodologie simple et efficace,\nENGAGED atteint tous les niveaux\nhiérarchiques pour fournir des\npropositions d'actions pratiques et\npersonnalisées pour chaque équipe."
+            },
+            {
+                "title": "Options de filtre sans\nvis-à-vis",
+                "description": "ENGAGED offre un benchmark\nholistique et complet pour rester\nparfaitement informé des tendances,\net prendre des décisions éclairées\nfavorisant l'amélioration continue de\nvotre organisation."
+            },
+            {
+                "title": "Marque employeur\ndistinctive",
+                "description": "Bien plus qu'une simple solution de\nmesure de l’engagement : c'est\nvotre badge exclusif de distinction,\nsignalant l'excellence de votre\norganisation afin d’attirer et retenir\nles meilleurs talents."
+            },
+            {
+                "title": "Solution par faitement\nsécurisé",
+                "description": "Avec notre système de cryptage de\ndonnées de dernière génération, nous\ngarantissons la sécurité et la\nconfidentialité des informations des\nemployés et de l'entreprise pour un\npartenariat en toute tranquilité."
+            }
+        ],
+        "contact-button": "Démonstration"
+    },
+    "BottomlinePage": {
+        "list": [
+            {
+                "title": "Bases et définitions\nprécises et adaptées",
+                "description": "Des nuances de terminologie\nspécifique aux marché locaux sont\nincluses pour s’adapter au besoin des\nprofessionnels de la finance, des\nressources humaines et de la fiscalité,\ngarantissant une précision maximale."
+            },
+            {
+                "title": "Algorithme avancé\npiloté par l'IA",
+                "description": "Notre puissant algorithme gère tous\nles calculs complexes en arrière-plan.\nTandis que nos menus conviviaux\ngarantissent une navigation\noptimale, rendant l’expérience de\nl’utilisateur fluide et très intuitive."
+            },
+            {
+                "title": "Des possibilités de\nfiltre incomparables",
+                "description": "Nous offrons un benchmark holistique\net complet pour vous garder\nparfaitement informés de toutes les\ntendances, et favoriser vos prises de\ndécisions éclairées et l'amélioration\ncontinue de votre organisation."
+            },
+            {
+                "title": "Liberté totale aux\nutilisateurs",
+                "description": "Notre solution donne le pouvoir à\nL'utilisateur et le positionne aux\ncommandes pour créer ses propres\nanalyses et adapter les données aux\nexigences de son organisation, et ce\nsans frais supplémentaires."
+            },
+            {
+                "title": "Solution parfaitement\nsécurisé",
+                "description": "Avec notre système de cryptage de\ndernière génération, nous\ngarantissons la sécurité et la\nconfidentialité des informations des\nemployés et de l'entreprise pour un\npartenariat en toute tranquilité."
+            },
+            {
+                "title": "Tarification unique\njuste & équitable",
+                "description": "Avec sa simplicité, équité et intégrité,\nBOTTOMLINE propose une tarification\nunique et un accès égal à tous ses\npartenaires, favorisant un haut niveau\nde confiance pour un partenariat de\nlong terme."
+            }
+        ],
+        "contact-button": "Démonstration"
+    },
+    "ContactPage": {
+        "input-name": "Nom",
+        "input-company": "Société",
+        "input-phone": "Téléphone",
+        "input-email": "Email Professionnel",
+        "input-message": "Message",
+        "submit-button": "Envoyer"
+    },
+    "LegalNoticePage": {
+        "title": "Mentions Légales",
+        "subtitle-1": "PROPRIÉTÉ",
+        "description-1": "Ce site web est la propriété de la société HR ANALYTICS, SARL AU au capital de 100 000 dirhams, immatriculée au Registre de Commerce de Casablanca sous le numéro 618263, dont le siège social est situé au 59, Bd. ZERKTOUNI, Bureau 32 à Casablanca.\nTéléphone : +212 (0) 669 174 777 Directeur de la Publication et Directeur Général : Ahmed KHALDI.",
+        "subtitle-2": "HÉBERGEMENT WEB",
+        "description-2": "Le site web est hébergé par Genious Communication 290, Assif B, Marrakech."
+    },
+    "ConfidentialityPage": {
+        "title": "Confidentialité",
+        "head-1": "LA CONFIDENTIALITÉ DES DONNÉES, DES IDENTITÉS ET L'ANONYMAT DES PROCESSUS CONSTITUENT UN PILIER FONDAMENTAL DE L'OFFRE DE SERVICES EN LIGNE D'HR ANALYTICS.",
+        "head-2": "HR ANALYTICS SE CONFORME SCRUPULEUSEMENT À CETTE POLITIQUE QUI EST ÉGALEMENT IMPOSABLE À TOUS LES PARTENAIRES ET UTILISATEURS SOUS PEINE DE RÉSILIATION DU COMPTE.",
+        "subtitle-1": "CONSERVATION ET ARCHIVAGE DES DONNÉES",
+        "description-1-1": "Toutes les données provenant du site Web et des applications et services connexes peuvent être archivées par HR ANALYTICS. Les enregistrements informatisés sont conservés dans les systèmes d'HR ANALYTICS conformément aux règles de l'art en matière de sécurité et sont considérés comme preuve des communications par e-mail, des soumissions de formulaires, des téléchargements de documents, des acceptations, des abonnements aux services et des commandes passées.",
+        "description-1-2": "L'archivage de ces informations et documents est effectué sur un support susceptible d'assurer la nature fidèle et durable requise par les dispositions légales en vigueur. Il est convenu qu'en cas de divergence entre ces registres informatisés et tous documents quel que soit leur format (papier, électronique ou autre), les registres informatisés d'HR ANALYTICS prévaudront.",
+        
+        "subtitle-2": "CONFIDENTIALITÉ DES PROCESSUS ET DES DONNÉES DES SERVICES EN LIGNE",
+        "description-2-1": "Tous les processus régissant les approches de mesure de l'engagement des employés et les enquêtes de rémunération sont complètement confidentiels, le système d'application est configuré pour les verrouiller et les crypter et aucun accès n'est donné et ne peut être donné à des tiers.",
+        "description-2-2": "Pour garantir l'anonymat, aucun accès n'est autorisé à quiconque aux informations personnelles ou pour identifier les auteurs des données gérées sur les sites Web d'HR ANALYTICS.",
+        "description-2-3": "Toutes les informations collectées par les services en ligne sont traitées de manière anonyme, sans aucun lien avec leur auteur. Les résultats des enquêtes sont analysés et présentés sous forme de jeux de données agrégées, sans référence à des identifiants ou des informations personnelles. Les critères de segmentation, lorsqu'ils existent, ne sont pas croisés et ne donnent lieu à une analyse que s'ils concernent plus de 3 répondants et 10 % des répondants de la catégorie analysée.",
+        "description-2-4": "HR ANALYTICS garantit la confidentialité des résultats à l'égard de toute personne dont le nom n'a pas été expressément communiqué par le représentant qualifié de l'entreprise cliente, étant entendu que les entreprises clientes auront une communication globale sur les résultats les concernant en termes précis.",
+        "description-2-5": "L'entreprise cliente s'engage à utiliser l'enquête dans un esprit d'amélioration continue. En particulier, elle organisera des réunions préparatoires et la restitution des résultats dans un esprit d'ouverture et de dialogue, dans le strict respect de cette charte. L'entreprise cliente exclut toute utilisation des services en ligne d'HR ANALYTICS pour motiver des sanctions disciplinaires à l'encontre d'un ou plusieurs employés, qu'ils aient ou non participé à ces services.",
+        
+        "subtitle-3": "CONFIDENTIALITÉ DES COMMUNICATIONS VIA INTERNET ET AUTRES RÉSEAUX",
+        "description-3-1": "Bien que les bases de données soient hautement sécurisées, et dans la mesure où les communications via Internet et autres réseaux de télécommunications (notamment lorsqu'elles sont accessibles via un équipement de connectivité mobile) ne sont par défaut pas 100% sécurisées, HR ANALYTICS ne peut être tenue responsable de toute interception volontaire ou involontaire par un tiers de tout message et/ou information échangé entre HR ANALYTICS et ses clients.",
+        
+        "subtitle-4": "TRAITEMENT DES DONNÉES PERSONNELLES",
+        "description-4-1": "HR ANALYTICS traite les données personnelles conformément aux lois relatives à la protection des données personnelles et aux directives et recommandations de la Commission Nationale de la Protection des Données Personnelles (CNDP).",
+        "description-4-2": "Les données personnelles des utilisateurs et des entreprises (par exemple, noms, adresses, e-mails, numéro de téléphone ou adresse e-mail) que l'utilisateur place sur le site ou communique à HR ANALYTICS par e-mail ou autrement, sont utilisées exclusivement par HR ANALYTICS et uniquement pour les finalités déclarées.",
+        "description-4-3": "L'administration des enquêtes, questionnaires et benchmarks par HR ANALYTICS est conçue dans le respect de toutes les exigences de la commission nationale pour la protection des données personnelles (CNDP).",
+        "description-4-4": "Tous les utilisateurs et entreprises clientes sont informés et acceptent qu'HR ANALYTICS puisse traiter des données personnelles les concernant conformément aux dispositions légales en vigueur. Certaines données personnelles étant nécessaires au fonctionnement des services, HR ANALYTICS peut ne pas être en mesure de fournir les services demandés ou de remplir les finalités pour lesquelles HR ANALYTICS traite des données personnelles.",
+        "description-4-5": "Étant donné que le traitement est basé sur le consentement des entreprises clientes et des utilisateurs, veuillez noter que ce consentement peut être retiré à tout moment, ce qui entraîne la résiliation du contrat.",
+        "description-4-6": "Aucune décision ayant des effets juridiques contre les entreprises clientes ou les utilisateurs n'est prise par un traitement exclusivement automatisé. Certains traitements de données spécifiques mis en œuvre par HR ANALYTICS peuvent avoir des durées de conservation différentes. Les détails sur les règles de conservation spécifiques à un traitement donné sont disponibles auprès de HR ANALYTICS et peuvent être communiqués sur demande de l'entreprise cliente.",
+        "description-4-7": "HR ANALYTICS se réserve le droit de modifier à tout moment cet avis d'information sur sa politique de traitement des données personnelles. La date d'entrée en vigueur de cette politique est mentionnée au début du texte. Veuillez vous y référer périodiquement et plus particulièrement chaque fois que vous nous fournissez des informations personnelles utiles pour votre identification.",
+        "description-4-8": "Il est porté à l'attention de tous les utilisateurs que l'autorité de surveillance marocaine en matière de traitement des données est la Commission Nationale de la Protection des Données Personnelles (CNDP) auprès de laquelle vous pouvez demander toute information ou déposer une plainte éventuelle.",
+        "subtitle-5": "DISPOSITIONS FINALES",
+        "description-5-1": "Tout litige relatif à la lecture ou à l'interprétation de ces conditions relève de la seule compétence des tribunaux de Casablanca.",
+        "description-5-2": "COORDONNÉES D'HR ANALYTICS : HR ANALYTICS SARL AU 59, bd ZERKTOUNI, Casablanca +212 (0)669 174 777 khaldi@hranalytics.ma",
+        
+        "subtitle-6": "DÉFINITIONS",
+        "description-6-1": "Entreprise cliente(s) : entreprise ayant acheté un service en ligne auprès d'HR ANALYTICS ou ayant eu accès à ses sites Web.",
+        "description-6-2": "Utilisateur(s) : toute personne physique mandatée par une entreprise cliente, qu'elle soit ou non légalement liée à celle-ci et disposant d'un compte utilisateur sur les sites Web ou services en ligne d'HR ANALYTICS ou ayant eu accès à ses sites Web."
+    },
+
+    "ConditionPage": {
+        "title": "Conditions Générales",
+        "head-1": "Dernière mise à jour le 1er mars 2024",
+        "head-2": "Les conditions ci-dessous s'appliquent à tous les sites Web et services en ligne d'HR ANALYTICS.",
+        "head-3": "VEUILLEZ LIRE ATTENTIVEMENT CES TERMES AVANT D'UTILISER LES SERVICES D'HR ANALYTICS. EN UTILISANT LES SERVICES D'HR ANALYTICS, VOUS ACCEPTEZ D'ÊTRE LIÉ PAR CES TERMES.",
+        "head-4": "HR ANALYTICS propose plusieurs services et produits, des conditions supplémentaires peuvent s'appliquer. Lorsque vous utilisez un service d'HR ANALYTICS, vous pouvez être soumis à des conditions spéciales propres à chaque service. En cas de divergence entre ces conditions spécifiques et celles-ci, les conditions spécifiques relatives à chaque produit prévalent.",
+        "head-5": "HR ANALYTICS se réserve le droit, à sa seule discrétion, de modifier, ajouter ou supprimer, à tout moment, des parties de ces conditions ou des parties des conditions spécifiques des produits. Toutes les modifications prennent effet immédiatement après leur publication. HR ANALYTICS informe lors de modifications, modifications importantes ou ajouts significatifs aux conditions générales et conditions spécifiques. En continuant à utiliser les services d'HR ANALYTICS, vous indiquez votre acceptation de ces changements.",
+        "head-6": "HR ANALYTICS suggère de consulter régulièrement ces conditions de vente et d'utilisation. Si l'une de ces conditions est considérée comme nulle ou non exécutoire pour une raison quelconque, elle sera considérée comme autonome et ne fera plus partie de l'accord sans aucun effet sur les autres conditions.",
+        "sous-titre-1": "I - DROITS D'AUTEUR, MARQUES ET LOI SUR LES BASES DE DONNÉES",
+        "description-1-1": "Le site contient du matériel protégé par des droits d'auteur, des marques déposées et des recherches exclusives d'HR ANALYTICS, y compris du texte, des logiciels, des photographies, des vidéos, des graphiques, de la musique et des extraits sonores. L'ensemble du contenu du site est protégé par le droit d'auteur, en tant qu'œuvre collective, en vertu des lois marocaines et internationales, ainsi que des lois protégeant les bases de données.",
+        "description-1-2": "Tous les contenus des bases de données sont la propriété de la société HR ANALYTICS, tous les utilisateurs consentent à ce que les données saisies par eux-mêmes ou par des tiers mandatés soient intégrées volontairement à cet ensemble. HR ANALYTICS peut utiliser les données collectées à des fins commerciales, l'anonymat et la confidentialité des données étant protégés.",
+        "description-1-3": "Sauf autorisation contraire en vertu du droit d'auteur, aucune copie, redistribution, retransmission, publication ou exploitation commerciale de matériaux, rapports ou données téléchargés n'est autorisée sans l'autorisation expresse d'HR ANALYTICS et des éventuels détenteurs de droits d'auteur. Les articles d'actualité, rapports et graphiques peuvent être téléchargés uniquement à des fins autorisées par HR ANALYTICS ou dans le cadre des besoins commerciaux des entreprises clientes utilisatrices. Lorsque du matériel protégé par des droits d'auteur est copié, distribué ou publié, vous ne pouvez pas modifier ou supprimer l'attribution de l'auteur, la légende de la marque commerciale ou l'avis de droit d'auteur. L'utilisateur reconnaît qu'en téléchargeant du matériel protégé par des droits d'auteur, l'utilisateur n'obtient aucun droit de propriété sur ce matériel. Toute référence aux articles d'actualité, rapports et graphiques d'HR ANALYTICS, sous quelque forme que ce soit, en totalité ou en partie, par rapport à une page Web, doit fournir un lien vers le contenu original dans son intégralité. Sauf disposition expresse contraire aux présentes, la transmission de ce contenu ne doit pas être interprétée comme accordant une licence de quelque nature que ce soit sur un droit d'auteur ou une marque commerciale appartenant ou contrôlée par HR ANALYTICS.",
+        "description-1-4": "Les contenus d'HR ANALYTICS non mentionnés dans le paragraphe précédent peuvent éventuellement être soumis à des restrictions supplémentaires conformément à ce qui est éventuellement décrit dans les conditions spéciales d'utilisation de chaque produit.",
+        "description-1-5": "VEUILLEZ NOTER QU'HR ANALYTICS PROTÈGE STRICTEMENT SES DROITS DE PROPRIÉTÉ INTELLECTUELLE DANS TOUTE LA MESURE AUTORISÉE PAR LA LOI.",
+        "sous-titre-2": "II - VENTE DES PRODUITS ET SERVICES EN LIGNE D'HR ANALYTICS",
+        "description-2-1": "VEUILLEZ LIRE ATTENTIVEMENT CES TERMES AVANT D'ACHETER DES PRODUITS OU SERVICES À HR ANALYTICS. EN PASSANT UNE COMMANDE À HR ANALYTICS, VOUS MANIFESTEZ VOTRE ACCORD POUR ÊTRE LIÉ PAR CES TERMES.",
+        "description-2-2": "Toute utilisation des Services sera réputée avoir eu lieu sur le territoire marocain.",
+        "description-2-3": "1. PASSATION ET ACCEPTATION DES COMMANDES La commande est une offre à HR ANALYTICS pour utiliser les produits ou articles sur ses sites Web. Lorsque l'entreprise cliente passe une commande auprès de HR ANALYTICS pour l'utilisation de produits ou services, qu'elle accepte, un e-mail de confirmation de création de compte est envoyé aux utilisateurs concernés. Les données utilisateur étant transmises à l'avance par l'entreprise cliente. Certaines données, notamment les coordonnées professionnelles et les e-mails des utilisateurs, sont obligatoires pour la validation de la commande.",
+        "description-2-4": "2. POLITIQUES DE DROIT DE RÉTRACTATION L'entreprise cliente peut annuler sa commande tant qu'aucun processus n'a été activé par les utilisateurs désignés sur le site Web. Une fois qu'au moins un processus est activé, l'entreprise est réputée avoir consommé le service et la commande ne peut pas être annulée ou remboursée.",
+        "description-2-5": "3. RÉSILIATION DU CONTRAT L'entreprise cliente peut à tout moment demander la résiliation de son compte sur les sites Web d'HR ANALYTICS conformément aux termes légaux en vigueur. Le montant de l'abonnement pour le reste de l'année n'est pas remboursé. HR ANALYTICS peut annuler ou résilier l'ensemble de ses offres à tout moment et sans préavis. En cas de résiliation, l'accès à la partie de l'offre d'HR ANALYTICS affectée par ladite annulation ou résiliation n'est plus autorisé. Les restrictions imposées concernant le matériel téléchargé à partir des sites Web d'HR ANALYTICS, ainsi que les limitations de responsabilité et les clauses de non-responsabilité stipulées dans cet accord sur les conditions générales de vente et d'utilisation des produits et services d'HR ANALYTICS restent en vigueur après de telles annulations ou résiliations. Cette disposition s'applique en particulier à la protection des marques commerciales et des droits d'auteur. HR ANALYTICS peut mettre fin ou suspendre ces Conditions d'Utilisation à tout moment sans préavis. Sans limiter ce qui précède, HR ANALYTICS se réserve le droit de résilier immédiatement le Compte Utilisateur en cas de comportement de sa part que HR ANALYTICS, à sa seule discrétion, juge inacceptable ou en cas de violation de ces conditions d'utilisation ou pour toute utilisation frauduleuse présentant un risque technique et sécuritaire pour la continuité des services.",
+        "sous-titre-3": "III - UTILISATION DES SERVICES ET PRODUITS EN LIGNE",
+        "description-3-1": "1. NAVIGATION Avant toute connexion aux services, il incombe à l'entreprise cliente de s'assurer que son équipement permet l'accès aux services ciblés et est adapté selon les recommandations d'HR ANALYTICS, et est, le cas échéant, dans une configuration sécurisée. HR ANALYTICS se réserve le droit d'améliorer, de modifier ou de retirer tout ou partie des fonctionnalités ou services, à tout moment et pour quelque raison que ce soit, ce qui peut avoir un impact sur la qualité de l'utilisation.",
+        "description-3-2": "2. CONFIGURATIONS RECOMMANDÉES Pour accéder à toutes les fonctions des sites Web d'HR ANALYTICS, ainsi que pour les utiliser de manière optimale, nous recommandons les configurations ci-dessous. Pour obtenir de l'aide sur les configurations compatibles avec les sites Web d'HR ANALYTICS, veuillez suivre le lien nous contacter ou nous contacter par téléphone au +212 669 174 777. Veuillez noter qu'HR ANALYTICS recommande les versions les plus récentes des navigateurs, des appareils mobiles ou des logiciels listés ci-dessous, sauf indication contraire. Navigateurs : Microsoft Edge, Firefox, Chrome ou Safari 10 ou ultérieur. Appareil mobile : iPhone/iPad utilisant iOS 10 ou supérieur, Android utilisant OS 4.4 ou supérieur. Packages logiciels : Java, Acrobat Reader, Microsoft Office, Adobe Flash.",
+        "description-3-3": "3. COMPTE UTILISATEUR L'accès aux sites Web est gratuit. Pour avoir accès aux services en ligne des sites Web ou au contenu d'HR ANALYTICS, un ou plusieurs comptes utilisateurs peuvent être ouverts. Chaque utilisateur maintient la confidentialité de son compte et de son mot de passe et assume la responsabilité de toutes les actions ou omissions qui se produisent lorsqu'il utilise son propre mot de passe ou compte. Il est interdit d'utiliser les sites Web d'HR ANALYTICS ou leur contenu à des fins illicites. Chaque utilisateur s'engage à notifier immédiatement à HR ANALYTICS toute utilisation non autorisée de son mot de passe ou de son compte, ainsi que toute autre violation de la sécurité, et s'assure que son compte est fermé à la fin de chaque session. HR ANALYTICS ne peut être tenu responsable de toute perte ou dommage résultant de la négligence dans la protection du mot de passe ou du compte par son propre utilisateur. Toute activité frauduleuse, abusive ou illégale peut entraîner la résiliation du compte utilisateur, à la seule discrétion d'HR ANALYTICS, qui peut également signaler l'utilisateur en question aux autorités compétentes.",
+        "description-3-4": "4. DONNÉES DE CONNEXION ET D'UTILISATION POUR LES SERVICES EN LIGNE Lors de l'accès à ses services en ligne, HR ANALYTICS peut obtenir automatiquement certaines données concernant les utilisateurs (en particulier des données techniques relatives à l'utilisation des services, telles que l'adresse de protocole Internet (IP) de l'équipement, le type de connexion, l'adresse IP du fournisseur de services Internet, la date et l'heure d'accès au service, l'adresse Internet du site Web à partir duquel l'utilisateur est redirigé vers les services, le système d'exploitation utilisé, les pages d'accès, le nombre d'activations de fonctionnalités dans les services, le type d'équipement, le numéro de version des services utilisés) ainsi que les informations que l'utilisateur importe ou télécharge dans les services. Ces données peuvent être utilisées pour l'administration, l'amélioration et la sécurité des services d'HR ANALYTICS. L'entreprise cliente et tous les utilisateurs sont informés que l'utilisation de certaines fonctionnalités du service peut nécessiter l'utilisation de données de géolocalisation, notamment la position géographique de l'équipement mobile utilisé.",
+        "description-3-5": "5. COOKIES ET DONNÉES D'ACCÈS AUX SITES WEB L'entreprise cliente et les utilisateurs sont informés que lors de l'accès et de l'utilisation des services, des informations sont temporairement stockées en mémoire ou sur leur disque dur, notamment au moyen de cookies ou d'autres technologies. Ces cookies sont utilisés pour remplir les objectifs suivants : · Création de statistiques fonctionnelles, · Analyse de l'audience, · Administration de sites Web, · Facilitation de la navigation sur les sites, · Partage de nos contenus avec les réseaux sociaux et les amis des utilisateurs, · Identification et accès au(x) service(s) du site. L'entreprise cliente et les utilisateurs reconnaissent avoir été informés de cette pratique et autorisent HR ANALYTICS à le faire. Ils peuvent cependant, et à tout moment, s'opposer à l'enregistrement de ces « cookies » en utilisant les options de confidentialité et/ou de sécurité de leur navigateur (telles que : Firefox, Opera, Explorer, Chrome, etc.). S'opposer à tous les cookies peut restreindre l'accès à tout ou partie des fonctionnalités des services.",
+        "description-3-6": "6. RESPONSABILITÉ ET LIMITATIONS DE RESPONSABILITÉ Les informations contenues sur les sites Web d'HR ANALYTICS sont aussi précises que possible et sont mises à jour à différents moments de l'année, mais peuvent contenir des inexactitudes ou des omissions. Tout utilisateur remarquant une lacune, une erreur ou ce qui semble être un dysfonctionnement est prié de le signaler par e-mail à l'adresse admin@hranalytics.ma, en décrivant le problème aussi précisément que possible (page causant le problème, type d'ordinateur et navigateur utilisé, etc.). Tout contenu téléchargé est effectué aux risques et périls de l'utilisateur et sous sa seule responsabilité. Par conséquent, HR ANALYTICS, ses dirigeants et/ou employés, ne peuvent être tenus responsables de tout dommage subi par l'ordinateur de l'utilisateur ou de toute perte de données résultant du téléchargement. Les photos ne sont pas contractuelles. HR ANALYTICS ne peut être tenu responsable des liens hypertextes mis en place dans le cadre de ce site Web vers d'autres ressources sur le réseau Internet.",
+        "sous-titre-4": "IV - CADRE JURIDIQUE",
+        "description-4-1": "Ces conditions d'utilisation sont régies par la loi marocaine et tout litige ou toute réclamation pouvant découler de l'interprétation ou de l'exécution de ces conditions relèvera de la compétence exclusive des tribunaux sur lesquels dépend le siège d'HR ANALYTICS. La langue de référence pour le règlement de tout litige est le français.",
+        "sous-titre-5": "V - POLITIQUE DE CONFIDENTIALITÉ",
+        "description-5-1": "Données Personnelles collectées : En France, les données personnelles sont protégées par la loi n° 78-87 du 6 janvier 1978, la loi n° 2004-801 du 6 août 2004, l'article L. 226-13 du Code pénal et la Directive européenne du 24 octobre 1995. À l'occasion de l'utilisation des sites Web d'HR ANALYTICS, les éléments suivants peuvent être collectés : l'URL des liens par l'intermédiaire desquels l'utilisateur a accédé aux sites Web d'HR ANALYTICS, le fournisseur d'accès de l'utilisateur, l'adresse de protocole Internet (IP) de l'utilisateur. En tout état de cause, HR ANALYTICS ne collecte que les informations personnelles relatives à l'utilisateur aux fins de certains services offerts par les sites Web d'HR ANALYTICS. L'utilisateur fournit ces informations en toute connaissance de cause, notamment lorsqu'il procède à leur saisie. L'utilisateur des sites Web d'HR ANALYTICS est alors informé de l'obligation ou non de fournir ces informations. Conformément aux dispositions des articles 38 et suivants de la loi 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, tout utilisateur dispose d'un droit d'accès, de rectification et d'opposition aux données personnelles le concernant, en effectuant sa demande écrite et signée, accompagnée d'une copie du titre d'identité avec signature du titulaire du document, en précisant l'adresse à laquelle la réponse doit être envoyée. Aucune information personnelle de l'utilisateur des sites Web d'HR ANALYTICS n'est publiée à l'insu de l'utilisateur, échangée, transférée, cédée ou vendue sur un support quelconque à des tiers. Seule l'hypothèse du rachat d'HR ANALYTICS et de ses droits permettrait la transmission desdites informations à l'éventuel acquéreur qui serait à son tour tenu de la même obligation de conservation et de modification des données vis-à-vis de l'utilisateur des sites Web d'HR ANALYTICS. Les bases de données sont protégées par les dispositions de la loi du 1er juillet 1998 transposant la directive 96/9 du 11 mars 1996 sur la protection juridique des bases de données.",
+        "sous-titre-6": "VI - NOTES ADDITIONNELLES",
+        "description-6-1": "Ce site Web est publié dans différentes technologies, notamment HTML, HTML5, CSS, JavaScript, etc., pour une meilleure facilité d'utilisation et de meilleurs graphismes. Nous recommandons l'utilisation de navigateurs modernes tels que Internet Explorer, Safari, Firefox, Google Chrome, etc. HR ANALYTICS utilise tous les moyens à sa disposition pour garantir des informations fiables et une mise à jour fiable de ses sites Web. Cependant, des erreurs ou des omissions peuvent survenir. L'utilisateur doit donc vérifier l'exactitude des informations auprès d'HR ANALYTICS et signaler tout changement sur le site qu'il juge utile. HR ANALYTICS n'est en aucun cas responsable de l'utilisation qui est faite de ces informations, et de tout dommage direct ou indirect qui pourrait en résulter.",
+        "description-6-2": "Cookies : Le site Web d'HR ANALYTICS peut vous demander d'accepter des cookies à des fins statistiques et d'affichage. Un cookie est une information placée sur votre disque dur par le serveur du site que vous visitez. Il contient plusieurs données qui sont stockées sur votre ordinateur dans un simple fichier texte auquel un serveur accède pour lire et enregistrer des informations. Certaines parties de ce site peuvent ne pas fonctionner sans l'acceptation de cookies.",
+        "description-6-3": "Hyperliens : Les sites Web d'HR ANALYTICS peuvent offrir des liens vers d'autres sites Web ou d'autres ressources disponibles sur Internet. HR ANALYTICS n'a aucun moyen de contrôler les sites connectés à ses sites Web. HR ANALYTICS ne répond pas de la disponibilité de ces sites externes et sources. Il ne peut être tenu responsable de tout dommage de quelque nature que ce soit résultant du contenu de ces sites externes ou sources, in particular the information, products or services that they offer, or any use that can be made of these elements. The risks associated with this use are the full responsibility of the Internet user, who must comply with their conditions of use. Users, subscribers and visitors to the HR ANALYTICS websites cannot set up a hyperlink to this site without the express and prior authorization of HR ANALYTICS. In the event that a user or visitor wishes to set up a hyperlink to one of the HR ANALYTICS websites, it will be his or her responsibility to send an email accessible on the site to formulate his or her request to set up a hyperlink. HR ANALYTICS reserves the right to accept or refuse a hyperlink without having to justify its decision."
+    }
+}
