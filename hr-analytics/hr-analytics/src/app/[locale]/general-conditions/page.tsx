@@ -13,7 +13,7 @@ export default function Home() {
   const t = useTranslations('ConditionPage')
 
   return (
-    <><div className='flex h-[100svh] flex-col justify-start items-center px-4'>
+    <div className='flex min-h-[100vh] flex-col justify-start items-center px-4'>
       <div className='flex justify-between items-center p-6 px-0 w-full'>
         <Image src={hr_analytics_logo} height={54} alt="logo" placeholder='empty' />
         <Sidebar color="black" />
@@ -71,6 +71,7 @@ export default function Home() {
           ))}
         </div>
       ))}
-    </div><div className='py-8'></div></>
+      <br className='mb-8' />
+    </div>
   )
 }
