@@ -7,6 +7,7 @@ import { useLocale, useTranslations } from "next-intl"
 import { SubmitErrorHandler, useForm } from 'react-hook-form'
 import { useToast } from "@/components/ui/use-toast"
 import { sendEmailContact } from '@/services/mail'
+import axios from "axios"
 
 interface ContactData {
   name: string
@@ -30,7 +31,7 @@ export default function Home() {
 
   const onSubmit = async (data: ContactData) => {
     try {
-      const resp = await sendEmailContact(data)
+      const resp = await await axios.post('https://hranalytics-back.onrender.com/sendEmailContact', data)
       console.log(resp)
       toast({
         title: 'Success',
