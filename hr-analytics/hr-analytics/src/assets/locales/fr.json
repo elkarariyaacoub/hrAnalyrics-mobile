@@ -109,7 +109,7 @@
         "contact-button": "Démonstration"
     },
     "ContactPage": {
-        "input-first-name": "Prénom",
+        "input-first-name": "Nom",
         "input-last-name": "Nome",
         "input-post": "Post",
         "input-company": "Société",
