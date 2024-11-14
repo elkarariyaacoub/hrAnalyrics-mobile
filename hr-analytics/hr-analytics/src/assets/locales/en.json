@@ -119,7 +119,7 @@
     "ContactPage": {
         "input-first-name": "Name",
         "input-last-name": "Last Name",
-        "input-post": "Post",
+        "input-post": "Position",
         "input-company": "Company",
         "input-phone": "Phone",
         "input-email": "Professional email",

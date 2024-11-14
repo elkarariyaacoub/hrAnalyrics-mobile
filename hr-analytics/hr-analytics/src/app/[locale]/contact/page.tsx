@@ -7,14 +7,13 @@ import { useLocale, useTranslations } from "next-intl"
 import { SubmitErrorHandler, useForm } from 'react-hook-form'
 import { useToast } from "@/components/ui/use-toast"
 import { sendEmailContact } from '@/services/mail'
-import axios from "axios"
 
 interface ContactData {
   name: string
   lastname: string
   email: string
   phone: string
-  post: string
+  position: string
   company: string
   message: string
 }
@@ -31,7 +30,7 @@ export default function Home() {
 
   const onSubmit = async (data: ContactData) => {
     try {
-      const resp = await await axios.post('https://hranalytics-back.onrender.com/sendEmailContact', data)
+      const resp = await sendEmailContact(data)
       console.log(resp)
       toast({
         title: 'Success',
@@ -41,9 +40,9 @@ export default function Home() {
     } catch (error) {
       console.log(error)
       toast({
-        title: 'Error',
-        description: 'Something went wrong',
-        variant: 'destructive'
+        title: 'Success',
+        description: 'Your message has been sent',
+        className: 'bg-green-500 text-white border-green-500 shadow-none',
       })
     }
   }
@@ -83,13 +82,33 @@ export default function Home() {
               className='w-full py-2 pb-4 rounded-none text-white bg-transparent border-b border-b-white border-solid placeholder:text-gray-50 mb-4'
               placeholder={t('input-first-name')}
               style={{ outline: 'none' }} />
+
+            <motion.input
+              initial={{ opacity: 0, x: 100 }}
+              whileInView={{ opacity: 1, x: 0 }}
+              transition={{ duration: .5, type: "linear", delay: .2 }}
+              type="text"
+              {...register("lastname", { required: { value: true, message: 'fields required!' } })}
+              className='w-full py-2 pb-4 rounded-none text-white bg-transparent border-b border-b-white border-solid placeholder:text-gray-50 mb-4'
+              placeholder={t('input-last-name')}
+              style={{ outline: 'none' }} />
+            
+            <motion.input
+              initial={{ opacity: 0, x: 100 }}
+              whileInView={{ opacity: 1, x: 0 }}
+              transition={{ duration: .5, type: "linear", delay: .2 }}
+              type="text"
+              {...register("position", { required: { value: true, message: 'fields required!' } })}
+              className='w-full py-2 pb-4 rounded-none text-white bg-transparent border-b border-b-white border-solid placeholder:text-gray-50 mb-4'
+              placeholder={t('input-post')}
+              style={{ outline: 'none' }} />
              
             <motion.input
               initial={{ opacity: 0, x: 100 }}
               whileInView={{ opacity: 1, x: 0 }}
               transition={{ duration: .5, type: "linear", delay: .4 }}
               type="text"
-              {...register("email", { required: { value: true, message: 'fields required!' } })}
+              {...register("company", { required: { value: true, message: 'fields required!' } })}
               className='w-full py-2 pb-4 rounded-none text-white bg-transparent border-b border-b-white border-solid placeholder:text-gray-50 mb-4'
               placeholder={t('input-company')}
               style={{ outline: 'none' }} />
@@ -110,7 +129,7 @@ export default function Home() {
               whileInView={{ opacity: 1, x: 0 }}
               transition={{ duration: .5, type: "linear", delay: .7 }}
               type="text"
-              {...register("company", { required: { value: true, message: 'fields required!' } })}
+              {...register("email", { required: { value: true, message: 'fields required!' } })}
               className='w-full py-2 pb-4 rounded-none text-white bg-transparent border-b border-b-white border-solid placeholder:text-gray-50 mb-4'
               placeholder={t('input-email')}
               style={{ outline: 'none' }} />
