@@ -3,7 +3,7 @@
 import axios from 'axios'
 
 export async function sendEmailContact(data: any) {
-    const resp = await axios.post('https://hranalytics-back.onrender.com/sendEmailContact', data)
+    const resp = await axios.post('https://bottomline.ma/sendEmailContact', data)
     console.log(resp)
     return resp
 }

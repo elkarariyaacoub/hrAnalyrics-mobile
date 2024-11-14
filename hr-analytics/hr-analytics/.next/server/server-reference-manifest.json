@@ -1,5 +1,14 @@
 {
-  "node": {},
+  "node": {
+    "171a8926097080685fb7c09d7ea33f61c8eb245a": {
+      "workers": {
+        "app/[locale]/contact/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CHR-analytics%5C%5Chr-analytics-mobile%5C%5ChrAnalyrics-mobile%5C%5Chr-analytics%5C%5Chr-analytics%5C%5Csrc%5C%5Cservices%5C%5Cmail.ts%22%2C%5B%22sendEmailContact%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/[locale]/contact/page": "action-browser"
+      }
+    }
+  },
   "edge": {},
-  "encryptionKey": "FqMJu+2uSd8+KWWoEjj1ttGkMJ4JuchKTpebXG+/n2U="
+  "encryptionKey": "1cDBSz3JJLZyQ2QFy5Ozc7fdyyWwXRuqpooABoXk6KI="
 }
