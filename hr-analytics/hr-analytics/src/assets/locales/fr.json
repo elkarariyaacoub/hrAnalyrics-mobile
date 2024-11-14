@@ -111,7 +111,7 @@
     "ContactPage": {
         "input-first-name": "Nom",
         "input-last-name": "Nome",
-        "input-post": "Post",
+       "input-post": "Position",
         "input-company": "Société",
         "input-phone": "Téléphone",
         "input-email": "Email Professionnel",
